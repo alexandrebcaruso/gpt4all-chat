@@ -1,4 +1,14 @@
+# IDE
+.vscode
+
+# python env
 __pycache__
 .venv
+
+# generated output
 persist
+context.*
+
+# miscelaneous
 test
+notebooks/
